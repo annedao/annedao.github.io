@@ -1,0 +1,150 @@
+body {
+	font-family: "Work Sans";
+}
+.about {
+	height: 400px;
+}
+
+.about p {
+	font-size: 15;
+}
+
+.aboutheader p {
+	font-size: 30;
+	font-weight: bold;
+}
+
+.about img {
+	float: left;
+	border-radius: 5%;
+	position: relative;
+	max-width: 500px;
+	max-height: 500px;
+	margin-left: 175px;
+	box-shadow: 1px 1px 2px #888;
+}
+
+.abouttext {
+	position: relative;
+	margin-right: 100px;
+}
+
+
+.wrap {
+    width: 100%;
+    height: 100vh;
+    height:auto;
+    margin: auto;
+    text-align:center;
+    position:relative;
+}
+
+.wrap img {
+	opacity: 0.5;
+	width: 100%;
+	height: 100%;
+}
+.text_over_image h1 {
+	font-weight: bold;
+	font-size: 90;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left:0;
+    right:0;
+    bottom:0;
+    height:100px;
+}
+
+.text_over_image h3 {
+	font-size: 35;
+    position: absolute;
+    margin: auto;
+    top: 200;
+    left:0;
+    right:0;
+    bottom:0;
+    height:100px;
+}
+
+
+.projects {
+	background-color: #e6f1f4;
+	height: 100%;
+}
+
+.proj {
+	height: 100%;
+    width: 100%%;
+    margin-left: 300px;
+    margin-right: 150px;
+    margin-top: -30px;
+
+}
+
+.projects h1 {
+	font-size: 40;
+	text-align: center;
+	font-weight: bold;
+	height:10%;
+	margin-top: 30px;
+}
+
+.projDescriptions {
+	width: 100%;
+	padding: 50px;
+	float: left;
+}
+
+
+.left{
+	width: 25%;
+	float:left;
+	padding: 30px;
+}
+
+.right{
+	width: 60%;
+	float: left;
+}
+
+.proj h4 {
+	font-weight: bold;
+}
+
+footer {
+	background-color: #e6f1f4;
+	display: block;
+	height: 8%;
+	text-align: center;
+}
+
+.icons {
+	height: 10%;
+	margin: auto;
+	width: 50%;
+	background-color: white;
+	display: block;
+}
+
+.icons img {
+	width: 35px;
+	height: 35px;
+	line-height: 10%;
+	padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
